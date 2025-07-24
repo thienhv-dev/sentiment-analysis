@@ -2,7 +2,7 @@
 
 > Bài tập thực tế: Fine-tune mô hình AI để phân loại cảm xúc của đánh giá khách hàng
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30.0-yellow)](https://huggingface.co/transformers/)
 [![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange)](https://aws.amazon.com/sagemaker/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
